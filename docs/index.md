@@ -31,42 +31,24 @@ _BS, Computer Science - Data Science Minor_
 
 •	“Most Polished and Professional” Award, BYU-Idaho Winter 2021 Hack-A-Thon
 
-## Tools
-
-#### Proficient:
-•	Python
-
-•	Swift/SwiftUI
-
-•	Django
-
-
-#### Competent:
-•	Java
-
-•	C++
-
-•	MySQL
-
-
 ## Project Experience
 
 `October 2021`
-__Impersonate Me Web Application__, Richland, WA
+__Impersonate Me Web Application__
 
 •	Produced web application using Python and Django that employs machine learning library to superimpose videos over JPG images
 
 •	Educated team members on incorporating HTML, CSS, and media files into framework by studying Django basics over 2 days
 
 `July 2021`
-__Meteor Game__, Consultant
+__Meteor Game__
 
 •	Utilized object-oriented principles to construct multiplayer computer game in Python Arcade
 
 •	Provided users with TCP connection to server resulting in players being linked together in online interactive environment
 
 `June 2021`
-__Cabinet Recipes__, Consultant
+__Cabinet Recipes__
 
 •	Built iOS application in Swift to create and store recipes in database by using SwiftUI to produce intuitive experience for user
 
